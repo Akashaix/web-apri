@@ -1,0 +1,20 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #849baa;
+
+  color: white;
+}
+
+#bang-xera {
+  background-color: #a2d9ff;
+}
+.img-3 {
+  overflow: hidden;
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
+
